@@ -150,27 +150,10 @@
     color: #ffffff;
 }
 
-@media (max-width:1200px){
-    .CARD-CONT{
-        margin-top: 20px;
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-gap: 20px 20px;
-        /* display: flex; */
-        /* flex-wrap: wrap; */
-    }
-    .card{
-        width: 100%;
-        height: 65vh;
-    }
-    .name{
-        font-size: 15px;
-    }
-}
 
 
 
-@media (max-width: 768px){
+@media (max-width: 1000px){
     .CARD-CONT{
         margin-top: 20px;
         display: grid;
