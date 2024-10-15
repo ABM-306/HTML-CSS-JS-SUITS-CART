@@ -153,14 +153,12 @@
 
 
 
-@media (max-width: 1200px){
+/* @media (max-width: 1200px){
     .CARD-CONT{
         margin-top: 20px;
         display: grid;
         grid-template-columns: repeat(1, 1fr);
         grid-gap: 20px 20px;
-        /* display: flex; */
-        /* flex-wrap: wrap; */
     }
     .card{
         width: 100%;
@@ -169,4 +167,4 @@
     .name{
         font-size: 20px;
     }
-}
+} */
